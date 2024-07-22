@@ -1,4 +1,5 @@
 <!-- _includes/navigation.html -->
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/custom.css">
 <nav>
   <ul>
     <li><a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
