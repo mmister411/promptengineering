@@ -1,11 +1,4 @@
-# Marcus Mister's Prompt Engineering Repository
-Prompts for Generative AI
-
 Welcome to the Prompt Engineering repository! This repository is dedicated to the collection and curation of generative AI prompt engineering prompts and related resources. Whether you are a seasoned developer or just beginning your journey in generative AI, this repository aims to provide valuable resources to enhance your prompt engineering skills.
-
-## About
-
-This repository is managed by Marcus Mister. It includes various prompts, guidelines, and resources for effective prompt engineering in generative AI. The goal is to build a comprehensive resource that aids in the development and fine-tuning of AI-generated content.
 
 ## Features
 
