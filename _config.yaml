@@ -23,8 +23,8 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 # Theme
-theme: jekyll-theme-midnight
-
+# theme: jekyll-theme-midnight
+gem "github-pages", group: :jekyll_plugins
 # Plugins
 plugins:
   - jekyll-feed
