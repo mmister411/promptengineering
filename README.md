@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 # Welcome to the Prompt Engineering Repository
 
@@ -9,8 +5,8 @@ This repository is dedicated to the collection and curation of generative AI pro
 
 ## Navigation
 
-- [Argument Evaluation](/argumentevaluation)
-- [Balanced Exposition](/balanced_exposition)
+- [Argument Evaluation](promptengineering/argumentevaluation)
+- [Balanced Exposition](promptengineering/balanced_exposition)
 
 ## About
 
