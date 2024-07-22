@@ -23,7 +23,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 # Theme
-remote_theme: "tbakerx/react-resume-template"
+remote_theme: "tbakerx/react-resume-template@v2.0.0"
 
 # Plugins
 plugins:
