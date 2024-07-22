@@ -9,4 +9,4 @@
     <li><a href="{{ site.baseurl }}/llm/balanced_exposition" {% if page.url == "/llm/allegory/" %}class="active"{% endif %}>Allegorical Didactive Narrative Prompt</a></li>
   </ul>
 </nav>
-allegory
+
