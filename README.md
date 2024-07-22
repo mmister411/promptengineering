@@ -1,9 +1,9 @@
-
+{% include navigation.md %}
 # Welcome to the Prompt Engineering Repository
 
 This repository is dedicated to the collection and curation of generative AI prompt engineering prompts and related resources. Whether you are a seasoned developer or just beginning your journey in generative AI, this repository aims to provide valuable resources to enhance your prompt engineering skills.
 
-{% include navigation.md %}
+
 
 ## About
 
