@@ -1,3 +1,5 @@
+{% include navigation.md %}
+
 Allegorical Didactive Narrative Prompt
 --------------------------------------
 
