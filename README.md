@@ -1,7 +1,7 @@
 ## Navigation
 
-- [Argument Evaluation](/argumentevaluation)
-- [Balanced Exposition](/balanced_exposition)
+- [Argument Evaluation](argumentevaluation.md)
+- [Balanced Exposition](balanced_exposition.md)
 
 Welcome to the Prompt Engineering repository! This repository is dedicated to the collection and curation of generative AI prompt engineering prompts and related resources. Whether you are a seasoned developer or just beginning your journey in generative AI, this repository aims to provide valuable resources to enhance your prompt engineering skills.
 
