@@ -15,7 +15,7 @@ This repository is managed by Marcus Mister. It includes various prompts, guidel
 
 ## Getting Started
 
-To get started, simply navigate through the repository and explore the various prompts and resources available. You can start by visiting the [Home](/) page for an overview, or learn more about the repository on the [About](/about) page.
+To get started, simply navigate through the repository and explore the various prompts and resources available. You can start by visiting the [Home](/) page for an overview, or learn more about the repository on the [About](/about.md) page.
 
 ## Contributing
 
