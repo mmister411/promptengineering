@@ -5,8 +5,8 @@ This repository is dedicated to the collection and curation of generative AI pro
 
 ## Navigation
 
-- [Argument Evaluation](./argumentevaluation)
-- [Balanced Exposition](./balanced_exposition)
+- [Argument Evaluation](./argumentevaluation.md)
+- [Balanced Exposition](./balanced_exposition.md)
 
 ## About
 
