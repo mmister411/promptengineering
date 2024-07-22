@@ -1,3 +1,5 @@
+{% include navigation.md %}
+
 Balanced Precision & Philosophy Starter Prompt
 ----------------------------------------------
 
