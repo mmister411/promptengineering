@@ -13,6 +13,10 @@ nav:
     url: "/"
   - title: "About"
     url: "/about"
+  - title: "Argument Evaluation"
+    url: "/llm/argumentevaluation"
+  - title: "Balanced Exposition"
+    url: "/llm/balanced_exposition"
 
 # Social Media
 twitter_username: marcus.t.mister
