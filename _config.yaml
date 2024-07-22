@@ -23,7 +23,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 # Theme
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Plugins
 plugins:
