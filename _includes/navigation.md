@@ -6,5 +6,7 @@
     <li><a href="{{ site.baseurl }}/about" {% if page.url == "/about/" %}class="active"{% endif %}>About</a></li>
     <li><a href="{{ site.baseurl }}/llm/argumentevaluation" {% if page.url == "/llm/argumentevaluation/" %}class="active"{% endif %}>Argument Evaluation</a></li>
     <li><a href="{{ site.baseurl }}/llm/balanced_exposition" {% if page.url == "/llm/balanced_exposition/" %}class="active"{% endif %}>Balanced Exposition</a></li>
+    <li><a href="{{ site.baseurl }}/llm/balanced_exposition" {% if page.url == "/llm/allegory/" %}class="active"{% endif %}>Allegorical Didactive Narrative Prompt</a></li>
   </ul>
 </nav>
+allegory
