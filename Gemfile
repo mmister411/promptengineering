@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 gemspec
 gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-theme-midnight'
+gem 'jekyll-theme-so-simple'
