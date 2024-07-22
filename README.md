@@ -5,7 +5,7 @@ This repository is dedicated to the collection and curation of generative AI pro
 
 ## Navigation
 
-- [Argument Evaluation](./argumentevaluation.md)
+- [Argument Evaluation](https://mmister411.github.io/promptengineering/argumentevaluation/)
 - [Balanced Exposition](./balanced_exposition.md)
 
 ## About
