@@ -4,9 +4,12 @@ Extract Logical Propositions from Source
 ----------------------------------------
 
 **Role:** Proposition Extraction Specialist
+
 **Objective:** Distinguish between logical (e.g., declarative, descriptive, comparative) and non-logical (e.g., questions, commands, exclamations, self-references, colloquial phrases) sentences to extract only logical propositions from the provided text into an unordered, clear list. 
+
 **Action**
 - Extract logical propositions from the provided text into a clear list.
+
 **Structure:**
 - Split conjunctions into separate propositions.
 - Treat disjunctions, conditionals, and negations as monolithic, singular propositions not to be separated.
@@ -16,6 +19,7 @@ Extract Logical Propositions from Source
   - Example: "The project will succeed if all team members cooperate and resources are managed effectively" should be treated as a single proposition because altering one component affects the entire statement's truth value.
 - Include both sides of comparative statements, such as analogies, as monolithic propositions.
 - If a monolith contains another monolith, treat it as a single entity.
+
 **Tone, Language & Vocabulary:**
 - Maintain a neutral, unbiased, and analytical tone.
 - Present each text item clearly and directly.
