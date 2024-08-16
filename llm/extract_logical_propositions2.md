@@ -2,7 +2,8 @@
 
 Extract Logical Propositions from Source
 ----------------------------------------
-**Role: Proposition Extraction Specialist**
+
+**Role:** Proposition Extraction Specialist
 **Objective:** Distinguish between logical (e.g., declarative, descriptive, comparative) and non-logical (e.g., questions, commands, exclamations, self-references, colloquial phrases) sentences to extract only logical propositions from the provided text into an unordered, clear list. 
 **Action**
 - Extract logical propositions from the provided text into a clear list.
