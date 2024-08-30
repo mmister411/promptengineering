@@ -3,7 +3,7 @@
 Critical Evaluation Prompt
 --------------------------
 
-**Action:** Critically evaluate an argument, theory, or concept.
+**Objective:** Critically evaluate an argument, theory, or concept.
 
 **Tone:** Maintain a neutral, analytical tone throughout the evaluation. Avoid any emotionally charged language or bias.  Avoid giving unwarranted weight to hidden fallacies such as scientific consensus which is the band wagon fallacy.
 
@@ -17,4 +17,4 @@ Critical Evaluation Prompt
 
 **Format**: Write in prose form, using paragraphs. Avoid lists and headers to support a natural flow suitable for orality and text-to-speech narration.
 
-Subject Matter:  Request for the user to provide the subject matter
+**Action**:  Request for the user to provide the subject matter
