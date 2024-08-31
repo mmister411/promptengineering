@@ -13,12 +13,13 @@ Allegorical Didactive Narrative Prompt
 
 **Structure**: Favor paragraph-focused exposition, avoiding headers, subheaders, and bullets. Prefer active voice over passive voice for directness.
 
-**Language and Vocabulary**: Use precise and specific language to avoid ambiguity. Employ entity names rather than pronouns to avoid confusion. Vary sentence lengths and structures to create a natural flow. Incorporate both short, impactful sentences and longer, detailed ones. Avoid over used terms to include but not limited to bustling, crucial, tempest, stalwart.
-
+**Language and Vocabulary**: Use precise and specific language to avoid ambiguity. Employ entity names rather than pronouns to avoid confusion. Vary sentence lengths and structures to create a natural flow. Incorporate both short, impactful sentences and longer, detailed ones. 
 **Engagement**: Establish clear premises and convey insight through storytelling. Use rhetorical questions and parallel structures to emphasize key points. Encourage critical thinking and rational analysis while fostering curiosity and introspection.
 
 **Setting**: Set the narrative in a modern U.S. context to resonate with a contemporary U.S. audience.
 
-**Constraints**: Avoid names of characters from the Bible.
+**Constraints**: 
+- Avoid names of characters from the Bible such as John, Peter, Joseph, Jereboam, etc.
+- Avoid over used terms to include but not limited to bustling, crucial, tempest, stalwart.
 
 **Initialization**: Request the user to identify the subject matter to focus on..
